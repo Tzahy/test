@@ -11,3 +11,5 @@
 - Fail your work flow to see what happens.
 
 - Add a Badge on your README.md file to reflect whether your project builds or fails CI/CD.
+
+- Added test
